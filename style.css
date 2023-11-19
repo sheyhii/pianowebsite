@@ -1,0 +1,164 @@
+.f1{
+        background-color: aliceblue;
+        flex-direction: row;
+        display:flex;
+        justify-content: flex-end;
+        gap: 10px;
+}
+.p1{
+    border: 10px solid palegreen;
+    height: 100px;
+    width: 300px;
+    padding: 40px;
+}
+.front{
+    background-color: aliceblue;
+    flex-direction: row;
+    display:flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+.g{
+    text-transform: lowercase;
+}
+.y1{
+    color: wheat;
+}
+.y2{
+    color: greenyellow;
+}
+.y3{
+    color: wheat;
+}
+@media(min-width:320px) and (max-width:650px){
+    font-size: 10px;
+}
+.img1{
+    border: 10px double;
+    float: left;
+}
+.span1{
+    color: chartreuse;
+}
+.learn1{
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: brown;
+    font-size: 3rem;
+    font-family: serif;
+}
+.sec{
+    background-color: rgb(95, 96, 160);
+    color: white;
+}
+.st{
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+}
+.img2{
+    float: right;
+    padding-right: 20px;
+    margin-right: 100px;
+    padding-left: 60px;
+    padding-block: 40px;
+    padding-right:170px;
+    width: 200px;
+    border: 10px solid teal;
+    font-size: 10px;
+}
+.st2{
+    text-align: center;
+    font-size: 3rem;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.start1i{
+    background-color: hotpink;
+    display:flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.stages{
+    font-size: 2rem;
+}
+.span2{
+    color: red;
+}
+.stages2{
+    font-size: 2rem;
+}
+.stage3ai{
+    font-size: 30px;
+}
+.stage3b{
+    font-size: 30px;
+}
+.st3{
+    text-align: center;
+    font-size: 3rem;
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.img3a{
+    display: inline-flex;
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+}
+.img4{
+    float: left;
+
+}
+.img5{
+    float: right;
+    border: 5px;
+}
+
+footer{
+    color: darkslategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100px;
+    text-align: center;
+    clear: both;
+}
+.fone{
+    font-size: 20px;
+}
+.about{
+    background-color: beige;
+    padding-left: 40px;
+    padding-right: 40px;
+    border:20px solid gray;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 20%;
+    color: black;
+    font-size:2rem;
+}
+
+.ai{
+    float:right;
+}
+.b{
+    border: 20px solid gray;
+    border-radius: 30%;
+    padding: 50px 50px;
+    margin-top: 100px;
+}
+.c{
+    float: right;
+}
+.d{
+    background-color: gray;
+    color: white;
+}
